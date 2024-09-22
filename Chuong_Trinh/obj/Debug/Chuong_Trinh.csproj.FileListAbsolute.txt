@@ -1,0 +1,10 @@
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\bin\Debug\Chuong_Trinh.exe.config
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\bin\Debug\Chuong_Trinh.exe
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\bin\Debug\Chuong_Trinh.pdb
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\obj\Debug\Chuong_Trinh.csproj.AssemblyReference.cache
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\obj\Debug\Chuong_Trinh.Form1.resources
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\obj\Debug\Chuong_Trinh.Properties.Resources.resources
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\obj\Debug\Chuong_Trinh.csproj.GenerateResource.cache
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\obj\Debug\Chuong_Trinh.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\obj\Debug\Chuong_Trinh.exe
+C:\Users\Nguyen Truong Quang\OneDrive\Máy tính\HK3\Fundamental Network Programming\Calculator\Chuong_Trinh\obj\Debug\Chuong_Trinh.pdb
