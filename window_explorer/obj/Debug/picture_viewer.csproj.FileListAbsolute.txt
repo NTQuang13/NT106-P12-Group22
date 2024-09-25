@@ -1,0 +1,10 @@
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\bin\Debug\picture_viewer.exe.config
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\bin\Debug\picture_viewer.exe
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\bin\Debug\picture_viewer.pdb
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\obj\Debug\picture_viewer.csproj.AssemblyReference.cache
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\obj\Debug\window_explorer.Form1.resources
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\obj\Debug\picture_viewer.Properties.Resources.resources
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\obj\Debug\picture_viewer.csproj.GenerateResource.cache
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\obj\Debug\picture_viewer.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\obj\Debug\picture_viewer.exe
+C:\Users\Nguyen Truong Quang\Downloads\picture_viewer\window_explorer\window_explorer\obj\Debug\picture_viewer.pdb
